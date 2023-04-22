@@ -1,0 +1,13 @@
+#
+# This file MUST be edited with the 'visudo' command as root.
+#
+Defaults	env_reset
+Defaults	mail_badpass
+Defaults	secure_path="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin"
+Defaults	use_pty
+
+# User privilege specification
+root	ALL=(ALL:ALL) ALL
+
+# Allow cubelight to execute any command
+cubelight	ALL=(ALL:ALL) ALL

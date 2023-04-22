@@ -1,0 +1,8 @@
+wpasupplicant wireless-tools firmware-brcm80211
+net-tools
+curl wget sudo nano unzip file
+python-is-python3 python3-pip pipenv python3-requests python3-pil python3-paho-mqtt
+build-essential
+ntpdate
+dropbear openssh-client
+git
